@@ -11,4 +11,5 @@ Structure/*
 Evaluation/*
 Algorithms/*
 .pyc
+find . -name '*.pyc' | xargs rm -f
 .DS*
