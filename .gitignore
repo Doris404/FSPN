@@ -1,0 +1,14 @@
+Evaluation/*.pyc
+Algorithms/*.pyc
+Inference/*.pyc
+Learning/*.pyc
+Structure/*.pyc
+Evaluation/*
+Algorithms/*
+Inference/*
+Learning/*
+Structure/*
+Evaluation/*
+Algorithms/*
+.pyc
+.DS*
